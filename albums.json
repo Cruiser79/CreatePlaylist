@@ -1,0 +1,22 @@
+[
+    {
+        "RFID": "456",
+        "Name": "Wir warten auf Weihnachten"
+    },
+    {
+        "RFID": "123",
+        "Name": "Winterkinder"
+    },
+    {
+        "RFID": "789",
+        "Name": "Im Kindergarten"
+    },
+    {
+        "RFID": "",
+        "Name": "Rolfs Liederbüchermaus"
+    },
+    {
+        "RFID": "",
+        "Name": "Rolfs Schulweg - Hitparade"
+    }
+]
